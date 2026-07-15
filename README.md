@@ -80,6 +80,24 @@ Open and run:
 2_Retriever.ipynb
 ```
 
-The notebook loads the precomputed index and performs multimodal fashion image retrieval.
-<img width="1310" height="320" alt="image" src="https://github.com/user-attachments/assets/93857094-d0c0-4af4-a3b4-8b51ce43f958" />
+OUTPUTS: 
+1) <img width="892" height="202" alt="image" src="https://github.com/user-attachments/assets/8d6056fa-53c6-4907-8e51-3c94e6e75fa5" />
+<img width="1151" height="497" alt="image" src="https://github.com/user-attachments/assets/2b561be4-9122-4913-83a4-99de626fd235" />
+
+2) <img width="1268" height="632" alt="image" src="https://github.com/user-attachments/assets/97a27296-4421-459a-828a-9923b1794077" />
+  
+3) <img width="1255" height="668" alt="image" src="https://github.com/user-attachments/assets/d6606427-383e-4d7d-9720-ffce567978c4" />
+
+4) <img width="785" height="192" alt="image" src="https://github.com/user-attachments/assets/9f3baf91-e82a-4743-820e-5b01872ab368" />
+<img width="1141" height="493" alt="image" src="https://github.com/user-attachments/assets/c987bbcc-1c03-4b08-9c11-cf56fbcddff0" />
+
+5) <img width="1258" height="206" alt="image" src="https://github.com/user-attachments/assets/92665d22-7602-47a0-bda1-425a67981444" />
+<img width="1172" height="461" alt="image" src="https://github.com/user-attachments/assets/358a2887-7587-4272-9ff0-6bdafa0dceb1" />
+
+
+
+
+
+
+
 
