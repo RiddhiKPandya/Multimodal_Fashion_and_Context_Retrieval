@@ -80,7 +80,7 @@ Open and run:
 2_Retriever.ipynb
 ```
 
-**OUTPUTS: **
+**OUTPUTS:**
 
 1) <img width="892" height="202" alt="image" src="https://github.com/user-attachments/assets/8d6056fa-53c6-4907-8e51-3c94e6e75fa5" />
 <img width="1151" height="497" alt="image" src="https://github.com/user-attachments/assets/2b561be4-9122-4913-83a4-99de626fd235" />
