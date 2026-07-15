@@ -81,3 +81,5 @@ Open and run:
 ```
 
 The notebook loads the precomputed index and performs multimodal fashion image retrieval.
+<img width="1310" height="320" alt="image" src="https://github.com/user-attachments/assets/93857094-d0c0-4af4-a3b4-8b51ce43f958" />
+
